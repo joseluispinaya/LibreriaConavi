@@ -1,0 +1,105 @@
+{
+  "libreria_conavi_db": {
+    "categorias": [
+      { "id_categoria": 1, "nombre": "Oficina y Organización" },
+      { "id_categoria": 2, "nombre": "Material Escolar" },
+      { "id_categoria": 3, "nombre": "Arte, Dibujo y Diseño" },
+      { "id_categoria": 4, "nombre": "Papelería y Cuadernos" }
+    ],
+    "productos": [
+      {
+        "id_producto": 101,
+        "id_categoria": 1,
+        "nombre": "Cinta Adhesiva Transparente Five Stick",
+        "descripcion": "Rollo de 25 Yardas x 17 mm. Ideal para uso de escritorio y embalaje ligero.",
+        "precio_bs": 5.00,
+        "stock": 150,
+        "marca": "Five Stick",
+        "en_oferta": false,
+        "tags": ["cinta", "adhesiva", "diurex", "pegamento", "oficina", "transparente"]
+      },
+      {
+        "id_producto": 102,
+        "id_categoria": 1,
+        "nombre": "Calculadora Científica CASIO ClassWiz fx-991LA CW",
+        "descripcion": "Calculadora en español, panel solar y pila, con 553 funciones. Edición Rosa Pastel.",
+        "precio_bs": 210.00,
+        "stock": 15,
+        "marca": "CASIO",
+        "en_oferta": true,
+        "tags": ["calculadora", "cientifica", "matematicas", "casio", "ingenieria", "pastel", "oficina"]
+      },
+      {
+        "id_producto": 201,
+        "id_categoria": 2,
+        "nombre": "Marcadores Crayola Super Tips",
+        "descripcion": "Marcadores escolares lavables, punta cónica, caja de 150 colores.",
+        "precio_bs": 695.00,
+        "stock": 8,
+        "marca": "Crayola",
+        "en_oferta": true,
+        "tags": ["marcadores", "colores", "crayola", "escolar", "niños", "pintar", "lavables"]
+      },
+      {
+        "id_producto": 202,
+        "id_categoria": 2,
+        "nombre": "Bolígrafos PILOT pop'lol Tinta Gel",
+        "descripcion": "Micropuntas de tinta gel, retráctiles, punta media 0.7 mm. Varios colores.",
+        "precio_bs": 20.00,
+        "stock": 300,
+        "marca": "PILOT",
+        "en_oferta": false,
+        "tags": ["boligrafo", "lapicero", "pilot", "gel", "escribir", "colegio", "micropunta"]
+      },
+      {
+        "id_producto": 301,
+        "id_categoria": 3,
+        "nombre": "Estilógrafos Faber-Castell Pitt Artist Pens",
+        "descripcion": "Set de 4 piezas con puntas surtidas (S,F,M,B). Tinta china negra, alta resistencia a la luz.",
+        "precio_bs": 120.00,
+        "stock": 25,
+        "marca": "Faber-Castell",
+        "en_oferta": false,
+        "tags": ["estilografo", "tinta china", "dibujo", "arte", "faber castell", "pitt", "arquitectura", "delinear"]
+      },
+      {
+        "id_producto": 302,
+        "id_categoria": 3,
+        "nombre": "Rotulador Punta Pincel Tombow Fudenosuke",
+        "descripcion": "Rotulador Hard Tip para dibujo artístico y lettering. Tinta negra permanente.",
+        "precio_bs": 25.00,
+        "stock": 0,
+        "marca": "Tombow",
+        "en_oferta": false,
+        "tags": ["rotulador", "pincel", "brush pen", "tombow", "lettering", "caligrafia", "arte", "agotado"]
+      },
+      {
+        "id_producto": 401,
+        "id_categoria": 4,
+        "nombre": "Sketchbook Mont Marte Signature A5",
+        "descripcion": "Cuaderno de dibujo, libreta con 100 páginas (50 hojas) de 150 g/m² Tamaño A5.",
+        "precio_bs": 85.00,
+        "stock": 40,
+        "marca": "Mont Marte",
+        "en_oferta": true,
+        "tags": ["cuaderno", "libreta", "sketchbook", "dibujo", "papel", "hojas", "mont marte"]
+      },
+      {
+        "id_producto": 402,
+        "id_categoria": 4,
+        "nombre": "Cartulina Chambril Blanca",
+        "descripcion": "Pliego de 65 x 100 cm, 180 g/m². Ideal para papelógrafos y manualidades.",
+        "precio_bs": 2.50,
+        "stock": 500,
+        "marca": "Genérico",
+        "en_oferta": false,
+        "tags": ["cartulina", "pliego", "blanca", "papel", "manualidades", "maquetas"]
+      }
+    ],
+    "respuestas_bot": {
+      "saludos": ["¡Hola! 👋 Soy el asistente virtual de libreria CONAVI. ¿Buscas algún material en específico?", "¡Bienvenido a Librería CONAVI! 📚 ¿En qué te puedo ayudar hoy?"],
+      "despedidas": ["¡Gracias por visitarnos! Vuelve pronto.", "Cualquier otra duda, aquí estaré. ¡Feliz día!"],
+      "sin_resultados": ["Lo siento, no encontré exactamente eso. ¿Podrías intentar con otra palabra como 'cuaderno' o 'marcadores'?", "No tenemos ese producto registrado actualmente. ¿Quieres buscar por marca?"]
+    }
+  }
+}
