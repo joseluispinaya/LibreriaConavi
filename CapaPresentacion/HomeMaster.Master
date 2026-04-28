@@ -56,7 +56,7 @@
             <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
                     <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>Riberalta, Beni, Bolivia</small>
-                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+591 74779841</small>
+                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+591 77464847</small>
                     <small class="text-light"><i class="fa fa-envelope-open me-2"></i>libreriaconavi@gmail.com</small>
                 </div>
             </div>
@@ -64,7 +64,7 @@
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.facebook.com/profile.php?id=61574306237458&locale=es_LA" target="_blank"><i class="fab fa-facebook-f fw-normal"></i></a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.instagram.com/libreriaconavi" target="_blank"><i class="fab fa-instagram fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://wa.me/59174779841" target="_blank"><i class="fab fa-whatsapp fw-normal"></i></a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://wa.me/59177464847" target="_blank"><i class="fab fa-whatsapp fw-normal"></i></a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle" href="https://www.tiktok.com/@libreriaconavi" target="_blank"><i class="fab fa-tiktok fw-normal"></i></a>
                 </div>
             </div>
@@ -99,7 +99,7 @@
                     </div>
                     <a href="Contactos.aspx" class="nav-item nav-link">Contacto</a>
                 </div>
-                <a href="https://wa.me/59174779841?text=Hola%20Librería%20CONAVI,%20me%20gustaría%20hacer%20un%20pedido" class="btn btn-secondary py-2 px-4 mt-3 mt-lg-0 ms-lg-3 d-inline-flex align-items-center">Hacer Pedido <img src="img/logo_whatsapp.png" alt="WhatsApp" style="height: 24px;" class="ms-2"></a>
+                <a href="https://wa.me/59177464847?text=Hola%20Librería%20CONAVI,%20me%20gustaría%20hacer%20un%20pedido" class="btn btn-secondary py-2 px-4 mt-3 mt-lg-0 ms-lg-3 d-inline-flex align-items-center">Hacer Pedido <img src="img/logo_whatsapp.png" alt="WhatsApp" style="height: 24px;" class="ms-2"></a>
             </div>
         </nav>
 
@@ -144,12 +144,12 @@
                             </div>
                             <div class="d-flex mb-2">
                                 <i class="bi bi-telephone text-primary me-2"></i>
-                                <p class="mb-0">+591 74779841</p>
+                                <p class="mb-0">+591 77464847</p>
                             </div>
                             <div class="d-flex mt-4">
                                 <a class="btn btn-primary btn-square me-2" href="https://www.facebook.com/profile.php?id=61574306237458&locale=es_LA" target="_blank"><i class="fab fa-facebook-f fw-normal"></i></a>
                                 <a class="btn btn-primary btn-square me-2" href="https://www.instagram.com/libreriaconavi" target="_blank"><i class="fab fa-instagram fw-normal"></i></a>
-                                <a class="btn btn-primary btn-square me-2" href="https://wa.me/59174779841" target="_blank"><i class="fab fa-whatsapp fw-normal"></i></a>
+                                <a class="btn btn-primary btn-square me-2" href="https://wa.me/59177464847" target="_blank"><i class="fab fa-whatsapp fw-normal"></i></a>
                                 <a class="btn btn-primary btn-square" href="https://www.tiktok.com/@libreriaconavi" target="_blank"><i class="fab fa-tiktok fw-normal"></i></a>
                             </div>
                         </div>
@@ -202,9 +202,7 @@
 
         <div class="chatbot-body p-3" id="chatbotBody">
             <div class="chat-message bot-message mb-3">
-                <div class="message-content bg-white text-dark p-2 border shadow-sm">
-                    ¡Hola! 👋 ¿En qué puedo ayudarte hoy?
-                </div>
+                <div class="message-content bg-white text-dark p-2 border shadow-sm">¡Hola! 👋 ¿En qué puedo ayudarte hoy?</div>
             </div>
         </div>
 

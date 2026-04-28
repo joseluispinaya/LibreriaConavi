@@ -1,0 +1,44 @@
+﻿/* Tarjeta del producto */
+.product-card {
+    transition: all 0.3s ease;
+    border: 1px solid rgba(0,0,0,0.05);
+    background-color: #EEF9FF;
+}
+
+    .product-card:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+    }
+
+/* Contenedor de la imagen (Asegura uniformidad) */
+.product-img-wrapper {
+    height: 220px; /* Puedes ajustar esta altura */
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+    .product-img-wrapper img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover; /* Recorta la imagen sin deformarla */
+        transition: transform 0.3s ease;
+    }
+
+.product-card:hover .product-img-wrapper img {
+    transform: scale(1.08); /* Efecto zoom sutil */
+}
+
+/* Botón de WhatsApp */
+.btn-whatsapp {
+    background-color: #25D366;
+    color: white;
+    font-weight: 500;
+    transition: all 0.3s;
+}
+
+    .btn-whatsapp:hover {
+        background-color: #1DA851;
+        color: white;
+        box-shadow: 0 5px 15px rgba(37, 211, 102, 0.4);
+    }

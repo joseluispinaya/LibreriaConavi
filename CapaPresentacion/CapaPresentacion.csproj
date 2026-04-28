@@ -47,9 +47,6 @@
       <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.10.0.7\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
-    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <HintPath>..\packages\Newtonsoft.Json.13.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
-    </Reference>
     <Reference Include="System.Buffers, Version=4.0.5.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\System.Buffers.4.6.1\lib\net462\System.Buffers.dll</HintPath>
     </Reference>
@@ -105,8 +102,27 @@
     <Content Include="Contactos.aspx" />
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\chatbot.css" />
+    <Content Include="css\miestilo.css" />
     <Content Include="css\style.css" />
     <Content Include="css\style.min.css" />
+    <Content Include="imgprod\anilladoBond.jpeg" />
+    <Content Include="imgprod\biblias.jpeg" />
+    <Content Include="imgprod\calculadoraCie.jpeg" />
+    <Content Include="imgprod\cuadAnillado.jpeg" />
+    <Content Include="imgprod\cuaderEmp.jpeg" />
+    <Content Include="imgprod\gomaLiq.jpeg" />
+    <Content Include="imgprod\lapicerosColo.jpeg" />
+    <Content Include="imgprod\lapicesColor.jpeg" />
+    <Content Include="imgprod\libroActa.jpeg" />
+    <Content Include="imgprod\marcadorAg.jpeg" />
+    <Content Include="imgprod\mochilasNew.jpeg" />
+    <Content Include="imgprod\mouseBt.jpeg" />
+    <Content Include="imgprod\papelFoto.jpeg" />
+    <Content Include="imgprod\perforadoras.jpeg" />
+    <Content Include="imgprod\pilasDura.jpeg" />
+    <Content Include="imgprod\tintaGene.jpeg" />
+    <Content Include="imgprod\tintasEp.jpeg" />
+    <Content Include="imgprod\tomaTodo.jpeg" />
     <Content Include="img\about.jpg" />
     <Content Include="img\acuarela.jpg" />
     <Content Include="img\archivadorlomo.jpg" />
@@ -146,6 +162,7 @@
     <Content Include="Inicio.aspx" />
     <Content Include="js\main.js" />
     <Content Include="js\Masterpa.js" />
+    <Content Include="js\Productos.js" />
     <Content Include="lib\animate\animate.css" />
     <Content Include="lib\animate\animate.min.css" />
     <Content Include="lib\counterup\counterup.min.js" />
@@ -170,6 +187,7 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConaviDatabaseV2.cs" />
     <Compile Include="Contactos.aspx.cs">
       <DependentUpon>Contactos.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -177,6 +195,7 @@
     <Compile Include="Contactos.aspx.designer.cs">
       <DependentUpon>Contactos.aspx</DependentUpon>
     </Compile>
+    <Compile Include="GeminiFileService.cs" />
     <Compile Include="HomeMaster.Master.cs">
       <DependentUpon>HomeMaster.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -213,6 +232,8 @@
     <Content Include="HomeMaster.Master" />
     <Content Include="lib\owlcarousel\LICENSE" />
     <Content Include="libreria.json" />
+    <Content Include="ConaviDoc.pdf" />
+    <Content Include="conavis.json" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

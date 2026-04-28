@@ -64,7 +64,7 @@
                         </div>
                         <div class="ps-4">
                             <h5 class="mb-2">Haz tu pedido por WhatsApp</h5>
-                            <h4 class="text-primary mb-0">+591 74779841</h4>
+                            <h4 class="text-primary mb-0">+591 77464847</h4>
                         </div>
                     </div>
                     <a href="Contactos.aspx" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Conócenos Más</a>
@@ -98,7 +98,7 @@
                             <h5 class="product-title mt-2 mb-1">Mochila Escolar Premium</h5>
                             <span class="product-category text-muted small">Accesorios</span>
                             <div class="product-action mt-4">
-                                <a href="https://wa.me/59174779841?text=Hola,%20quiero%20pedir%20la%20Mochila%20Escolar%20Premium" target="_blank" class="btn btn-secondary w-100 fw-bold">Pedir por WhatsApp <i class="fab fa-whatsapp ms-1"></i></a>
+                                <a href="https://wa.me/59177464847?text=Hola,%20quiero%20pedir%20la%20Mochila%20Escolar%20Premium" target="_blank" class="btn btn-secondary w-100 fw-bold">Pedir por WhatsApp <i class="fab fa-whatsapp ms-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -113,7 +113,7 @@
                             <h5 class="product-title mt-2 mb-1">Set de Colores Múltiples</h5>
                             <span class="product-category text-muted small">Material de Arte</span>
                             <div class="product-action mt-4">
-                                <a href="https://wa.me/59174779841?text=Hola,%20quiero%20pedir%20el%20Set%20de%20Colores%20Múltiples" target="_blank" class="btn btn-secondary w-100 fw-bold">Pedir por WhatsApp <i class="fab fa-whatsapp ms-1"></i></a>
+                                <a href="https://wa.me/59177464847?text=Hola,%20quiero%20pedir%20el%20Set%20de%20Colores%20Múltiples" target="_blank" class="btn btn-secondary w-100 fw-bold">Pedir por WhatsApp <i class="fab fa-whatsapp ms-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -129,7 +129,7 @@
                             <h5 class="product-title mt-2 mb-1">Cuaderno Tapa Dura Universitario</h5>
                             <span class="product-category text-muted small">Material Escolar</span>
                             <div class="product-action mt-4">
-                                <a href="https://wa.me/59174779841?text=Hola,%20quiero%20pedir%20el%20Cuaderno%20Universitario%20Tapa%20Dura" target="_blank" class="btn btn-secondary w-100 fw-bold">Pedir por WhatsApp <i class="fab fa-whatsapp ms-1"></i></a>
+                                <a href="https://wa.me/59177464847?text=Hola,%20quiero%20pedir%20el%20Cuaderno%20Universitario%20Tapa%20Dura" target="_blank" class="btn btn-secondary w-100 fw-bold">Pedir por WhatsApp <i class="fab fa-whatsapp ms-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -144,7 +144,7 @@
                             <h5 class="product-title mt-2 mb-1">Agenda Ejecutiva 2024</h5>
                             <span class="product-category text-muted small">Oficina</span>
                             <div class="product-action mt-4">
-                                <a href="https://wa.me/59174779841?text=Hola,%20quiero%20pedir%20la%20Agenda%20Ejecutiva%202024" target="_blank" class="btn btn-secondary w-100 fw-bold">Pedir por WhatsApp <i class="fab fa-whatsapp ms-1"></i></a>
+                                <a href="https://wa.me/59177464847?text=Hola,%20quiero%20pedir%20la%20Agenda%20Ejecutiva%202024" target="_blank" class="btn btn-secondary w-100 fw-bold">Pedir por WhatsApp <i class="fab fa-whatsapp ms-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -172,7 +172,7 @@
                             <h5 class="product-title mt-2 mb-1">Resma de Papel Bond Oficio</h5>
                             <span class="product-category text-muted small">Oficina</span>
                             <div class="product-action mt-4">
-                                <a href="https://wa.me/59174779841?text=Hola,%20quiero%20pedir%20la%20Resma%20de%20Papel%20Bond%20Oficio" target="_blank" class="btn btn-secondary w-100 fw-bold">Pedir por WhatsApp <i class="fab fa-whatsapp ms-1"></i></a>
+                                <a href="https://wa.me/59177464847?text=Hola,%20quiero%20pedir%20la%20Resma%20de%20Papel%20Bond%20Oficio" target="_blank" class="btn btn-secondary w-100 fw-bold">Pedir por WhatsApp <i class="fab fa-whatsapp ms-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -187,7 +187,7 @@
                             <h5 class="product-title mt-2 mb-1">Archivadores Lomo Ancho</h5>
                             <span class="product-category text-muted small">Material Escolar y Oficina</span>
                             <div class="product-action mt-4">
-                                <a href="https://wa.me/59174779841?text=Hola,%20quiero%20pedir%20Archivadores%20Lomo%20Ancho" target="_blank" class="btn btn-secondary w-100 fw-bold">Pedir por WhatsApp <i class="fab fa-whatsapp ms-1"></i></a>
+                                <a href="https://wa.me/59177464847?text=Hola,%20quiero%20pedir%20Archivadores%20Lomo%20Ancho" target="_blank" class="btn btn-secondary w-100 fw-bold">Pedir por WhatsApp <i class="fab fa-whatsapp ms-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -202,7 +202,7 @@
                             <h5 class="product-title mt-2 mb-1">Cartulina de Colores Pqte.</h5>
                             <span class="product-category text-muted small">Material Creativo</span>
                             <div class="product-action mt-4">
-                                <a href="https://wa.me/59174779841?text=Hola,%20quiero%20pedir%20el%20Paquete%20de%20Cartulina%20de%20Colores" target="_blank" class="btn btn-secondary w-100 fw-bold">Pedir por WhatsApp <i class="fab fa-whatsapp ms-1"></i></a>
+                                <a href="https://wa.me/59177464847?text=Hola,%20quiero%20pedir%20el%20Paquete%20de%20Cartulina%20de%20Colores" target="_blank" class="btn btn-secondary w-100 fw-bold">Pedir por WhatsApp <i class="fab fa-whatsapp ms-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -217,7 +217,7 @@
                             <h5 class="product-title mt-2 mb-1">Borradores Mágicos</h5>
                             <span class="product-category text-muted small">Material Escolar</span>
                             <div class="product-action mt-4">
-                                <a href="https://wa.me/59174779841?text=Hola,%20quiero%20pedir%20Borradores%20Mágicos" target="_blank" class="btn btn-secondary w-100 fw-bold">Pedir por WhatsApp <i class="fab fa-whatsapp ms-1"></i></a>
+                                <a href="https://wa.me/59177464847?text=Hola,%20quiero%20pedir%20Borradores%20Mágicos" target="_blank" class="btn btn-secondary w-100 fw-bold">Pedir por WhatsApp <i class="fab fa-whatsapp ms-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -404,7 +404,7 @@
                     <div class="position-relative bg-primary rounded h-100 d-flex flex-column align-items-center justify-content-center text-center p-5">
                         <h3 class="text-white mb-3">¿Necesitas algo especial?</h3>
                         <p class="text-white mb-3">Contáctanos por WhatsApp y te ayudaremos con tu pedido personalizado</p>
-                        <h2 class="text-white mb-0"><i class="fab fa-whatsapp me-2"></i>+591 74779841</h2>
+                        <h2 class="text-white mb-0"><i class="fab fa-whatsapp me-2"></i>+591 77464847</h2>
                     </div>
                 </div>
             </div>
@@ -418,7 +418,7 @@
             <div class="promo-banner text-center text-white">
                 <h2 class="mb-3 position-relative" style="z-index: 1;">📚 ¡Prepárate para el nuevo año escolar!</h2>
                 <p class="mb-4 fs-5 position-relative" style="z-index: 1;">Encuentra todos los materiales que necesitas en Librería CONAVI. ¡Lista de útiles completa al mejor precio!</p>
-                <a href="https://wa.me/59174779841?text=Hola%20CONAVI,%20quiero%20consultar%20sobre%20la%20lista%20de%20útiles%20escolares" class="btn btn-light btn-lg px-5 py-3 position-relative" style="z-index: 1; color: var(--primary); font-weight: 700;">
+                <a href="https://wa.me/59177464847?text=Hola%20CONAVI,%20quiero%20consultar%20sobre%20la%20lista%20de%20útiles%20escolares" class="btn btn-light btn-lg px-5 py-3 position-relative" style="z-index: 1; color: var(--primary); font-weight: 700;">
                     <i class="fab fa-whatsapp me-2"></i>Consultar por WhatsApp
                 </a>
             </div>
@@ -450,7 +450,7 @@
                         </div>
                         <div class="ps-4">
                             <h5 class="mb-2">Escríbenos a WhatsApp</h5>
-                            <h4 class="text-primary mb-0">+591 74779841</h4>
+                            <h4 class="text-primary mb-0">+591 77464847</h4>
                         </div>
                     </div>
                 </div>

@@ -79,8 +79,42 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // --- FUNCIONES DE APOYO (UI/UX) ---
 
-    // Función que inyecta el HTML del mensaje en el cuerpo del chat
     function appendMessage(text, sender) {
+        const isUser = sender === "user";
+
+        const messageDiv = document.createElement("div");
+        messageDiv.className = `chat-message mb-3 ${isUser ? 'user-message' : 'bot-message'}`;
+
+        const contentDiv = document.createElement("div");
+        contentDiv.className = `message-content p-2 shadow-sm border ${isUser ? 'bg-primary text-white border-primary' : 'bg-white text-dark'}`;
+
+        // MAGIA CSS: Esto hace que los "\n" se vean como saltos de línea reales sin usar <br>
+        contentDiv.style.whiteSpace = "pre-wrap";
+
+        if (isUser) {
+            // El mensaje del usuario va crudo y ultra seguro
+            contentDiv.textContent = text;
+        } else {
+            // EL MENSAJE DEL BOT:
+            // 1. Escapamos etiquetas HTML peligrosas (<script>, etc) por seguridad
+            let safeText = text.replace(/</g, "&lt;").replace(/>/g, "&gt;");
+
+            // 2. Mini-Regex: Convertimos **texto** en <b>texto</b>
+            safeText = safeText.replace(/\*\*(.*?)\*\*/g, "<b>$1</b>");
+
+            // 3. Imprimimos el resultado formateado
+            contentDiv.innerHTML = safeText;
+        }
+
+        messageDiv.appendChild(contentDiv);
+        chatbotBody.appendChild(messageDiv);
+
+        // Auto-Scroll automático hacia abajo
+        chatbotBody.scrollTop = chatbotBody.scrollHeight;
+    }
+
+    // Función que inyecta el HTML del mensaje en el cuerpo del chat
+    function appendMessageOriginal(text, sender) {
         const isUser = sender === "user";
 
         const messageDiv = document.createElement("div");

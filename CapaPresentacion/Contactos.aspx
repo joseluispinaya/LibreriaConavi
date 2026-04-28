@@ -29,7 +29,7 @@
                         </div>
                         <div class="ps-4">
                             <h5 class="mb-2">WhatsApp</h5>
-                            <h4 class="text-primary mb-0">+591 74779841</h4>
+                            <h4 class="text-primary mb-0">+591 77464847</h4>
                         </div>
                     </div>
                 </div>

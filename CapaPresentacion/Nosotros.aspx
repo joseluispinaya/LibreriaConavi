@@ -48,7 +48,7 @@
                         </div>
                         <div class="ps-4">
                             <h5 class="mb-2">¿Tienes alguna consulta?</h5>
-                            <h4 class="text-primary mb-0">+591 74779841</h4>
+                            <h4 class="text-primary mb-0">+591 77464847</h4>
                         </div>
                     </div>
                     <a href="Contactos.aspx" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn"

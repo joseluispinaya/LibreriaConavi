@@ -1,0 +1,45 @@
+{
+  "libreria_conavi_v2": {
+    "informacion_general": {
+      "nombre": "Librería CONAVI",
+      "ubicacion": "Avenida Chuquisaca, Riberalta - Beni, Bolivia",
+      "telefono": "77464847",
+      "correo": "libreriaconavi@gmail.com",
+      "mision": "Facilitar el acceso a herramientas educativas y de trabajo de calidad."
+    },
+    "servicios": [
+      "Anillado",
+      "Plastificado",
+      "Fotocopias",
+      "Impresiones",
+      "Maquetas personalizadas (escolares y técnicas)",
+      "Trabajos en goma Eva (letreros, figuras, decoraciones)"
+    ],
+    "productos": [
+      { "nombre": "Cinta Adhesiva Transparente Five Stick", "descripcion": "Rollo de 25 Yardas x 17 mm.", "precio_bs": 5.0 },
+      { "nombre": "Calculadoras Científicas CASIO", "descripcion": "En español, panel solar y pila, 553 funciones.", "precio_bs": 210.0 },
+      { "nombre": "Marcadores Crayola Super Tips", "descripcion": "Lavables, punta cónica, caja de 150 colores.", "precio_bs": 495.0 },
+      { "nombre": "Bolígrafos PILOT pop'lol Tinta Gel", "descripcion": "Retráctiles, punta media 0.7 mm.", "precio_bs": 20.0 },
+      { "nombre": "Estilógrafos Faber-Castell", "descripcion": "Set de 4 piezas con puntas surtidas.", "precio_bs": 120.0 },
+      { "nombre": "Rotulador Punta Pincel Tombow", "descripcion": "Para dibujo artístico y lettering.", "precio_bs": 25.0 },
+      { "nombre": "Sketchbook Signature A5 Mont Marte", "descripcion": "Cuaderno de dibujo de 100 páginas.", "precio_bs": 85.0 },
+      { "nombre": "Cartulina Chambril Blanca", "descripcion": "Pliego 65x100 cm.", "precio_bs": 2.5 },
+      { "nombre": "Papel fotográfico Off Paper", "descripcion": "Tamaño A4 con 20 hojas.", "precio_bs": 45.0 },
+      { "nombre": "Tinta universal para impresora", "descripcion": "Botella de 1 Lt.", "precio_bs": 150.0 },
+      { "nombre": "Mouse BT Genius", "descripcion": "Mouse inalámbrico bluetooth.", "precio_bs": 120.0 },
+      { "nombre": "Tintas EPSON", "descripcion": "Modelos 544 y 664.", "precio_bs": 90.0 },
+      { "nombre": "Libro de actas y asistencia Milcar", "descripcion": "100 hojas tamaño oficio.", "precio_bs": 30.0 },
+      { "nombre": "Anillado de papel bond", "descripcion": "100 hojas tamaño carta.", "precio_bs": 20.0 },
+      { "nombre": "Cuaderno Anillado Wild", "descripcion": "200 hojas tamaño carta.", "precio_bs": 60.0 },
+      { "nombre": "Estuches para lápices", "descripcion": "Varios colores.", "precio_bs": 25.0 },
+      { "nombre": "Colores Faber Castell", "descripcion": "12 unidades.", "precio_bs": 30.0 },
+      { "nombre": "Biblias", "descripcion": "Diferentes modelos.", "precio_bs": 60.0 },
+      { "nombre": "Toma todo", "descripcion": "500 ml. en diferentes colores.", "precio_bs": 150.0 },
+      { "nombre": "Lápices de colores Milcar", "descripcion": "24 unidades.", "precio_bs": 45.0 },
+      { "nombre": "Goma líquida Milcar", "descripcion": "250 ml.", "precio_bs": 25.0 },
+      { "nombre": "Papel bond tamaño Carta Boreal", "descripcion": "75g paquete.", "precio_bs": 40.0 },
+      { "nombre": "Cuaderno Empastado Winner", "descripcion": "100 hojas.", "precio_bs": 30.0 },
+      { "nombre": "Pilas AA, AAA Duracel", "descripcion": "Pilas en diferentes tamaños.", "precio_bs": 30.0 }
+    ]
+  }
+}
